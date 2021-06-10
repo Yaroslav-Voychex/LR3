@@ -1,0 +1,10 @@
+c:\users\yarick\source\repos\LR_3\LR_3\bin\Debug\LR_3.exe.config
+c:\users\yarick\source\repos\LR_3\LR_3\bin\Debug\LR_3.exe
+c:\users\yarick\source\repos\LR_3\LR_3\bin\Debug\LR_3.pdb
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.csprojAssemblyReference.cache
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.fMain.resources
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.Properties.Resources.resources
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.csproj.GenerateResource.cache
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.csproj.CoreCompileInputs.cache
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.exe
+c:\users\yarick\source\repos\LR_3\LR_3\obj\Debug\LR_3.pdb
